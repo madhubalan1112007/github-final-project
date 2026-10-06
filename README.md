@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Simple Interest Calculator
 
 ## Description
@@ -29,3 +30,6 @@ Result = 100
 - Calculates simple interest
 - Easy to use
 - Provides accurate results
+=======
+# git-github-project
+>>>>>>> 92f6d53da3cc25b8e4c7d938d0643ba03e9c78c4
