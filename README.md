@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Simple Interest Calculator
 
 ## Description
