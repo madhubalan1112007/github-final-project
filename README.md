@@ -16,9 +16,9 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Example
 
-Principal = 1000  
-Rate = 5%  
-Time = 2 years  
+Principal = 1000
+Rate = 5%
+Time = 2 years
 
 Simple Interest = (1000 × 5 × 2) / 100
 
@@ -29,6 +29,3 @@ Result = 100
 - Calculates simple interest
 - Easy to use
 - Provides accurate results
-=======
-# git-github-project
->>>>>>> 92f6d53da3cc25b8e4c7d938d0643ba03e9c78c4
